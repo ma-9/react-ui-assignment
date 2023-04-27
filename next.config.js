@@ -2,6 +2,7 @@
 const nextConfig = {
   experimental: {
     appDir: true,
+    DEV_SSR: true,
   },
 }
 
